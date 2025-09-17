@@ -1,5 +1,5 @@
 # Programming-with-Classes
-This is the starter code for students in CSE 210.
+This is the work of Jack Watson, the greatest inovator the world has ever seen.
 
 This repository contains the starter code for many different projects. They are arranged as follows:
 
